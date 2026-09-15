@@ -684,10 +684,7 @@ footer { background: var(--navy-900); color: var(--grey-200); margin-top: 40px; 
   padding: 18px 0;
   font-size: .8rem;
   color: var(--grey-400);
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 10px;
+  text-align: center;
 }
 
 /* ---------- Responsive ---------- */
